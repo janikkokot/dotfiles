@@ -1,0 +1,69 @@
+{
+  "Google": {
+    "Url": "https://www.google.com/search?q=%s",
+    "SuggestionProvider": "Google",
+    "IsDefault": true
+  },
+  "GoogleScholar": {
+    "Url": "https://scholar.google.com/scholar?hl=en&q=%s",
+    "SuggestionProvider": "Google",
+    "Keyword": "gs"
+  },
+  "GoogleScholar Library": {
+    "Url": "https://scholar.google.com/scholar?hl=en&scilib=1&q=%s",
+    "SuggestionProvider": "Google",
+    "Keyword": "gsl"
+  },
+  "Youtube": {
+    "Url": "https://www.youtube.com/results?search_query=%s",
+    "SuggestionProvider": "Google",
+    "Keyword": "yt"
+  },
+  "Wikipedia": {
+    "Url": "https://en.wikipedia.org/w/index.php?search=%s",
+    "SuggestionProvider": "Google",
+    "Keyword": "wiki"
+  },
+  "GitHub": {
+    "Url": "https://github.com/search?q=%s&type=repositories",
+    "Keyword": "gh"
+  },
+  "StackOverflow": {
+    "Url": "https://stackoverflow.com/search?q=%s",
+    "SuggestionProvider": "Google",
+    "Keyword": "st"
+  },
+  "Python": {
+    "Url": "https://docs.python.org/3/search.html?q=%s",
+    "SuggestionProvider": "Google",
+    "Keyword": "py"
+  },
+  "Pandas": {
+    "Url": "https://pandas.pydata.org/docs/search.html?q=%s",
+    "SuggestionProvider": "Google",
+    "Keyword": "pd"
+  },
+  "Matplotlib": {
+      "Url": "https://matplotlib.org/stable/search.html?q=%s",
+    "SuggestionProvider": "Google",
+    "Keyword": "mpl"
+  },
+  "Seaborn": {
+      "Url": "https://seaborn.pydata.org/search.html?q=%s",
+    "SuggestionProvider": "Google",
+    "Keyword": "sns"
+  },
+  "Numpy": {
+    "Url": "https://numpy.org/doc/stable/search.html?q=%s",
+    "SuggestionProvider": "Google",
+    "Keyword": "np"
+  },
+  "opgg": {
+    "Url": "https://www.op.gg/champions/%s/build",
+    "SuggestionProvider": "Google"
+  },
+  "aram": {
+    "Url": "https://www.op.gg/modes/aram/%s/build?region=global",
+    "SuggestionProvider": "Google"
+  }
+}
